@@ -14,7 +14,3 @@ N/A
 ##Credits
 
 Horiseon Social Solution Services, Inc.
-
-## License
-
-Please refer to the LICENSE in the repo.
