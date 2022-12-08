@@ -12,7 +12,7 @@
 
 N/A
 
-## Links
+## Link
 
 Deployed application link: 
 
