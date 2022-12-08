@@ -12,6 +12,12 @@
 
 N/A
 
+## Links
+
+Deployed application link: 
+
+https://gatewayss.github.io/module-one/
+
 ## Credits
 
 Horiseon Social Solution Services, Inc.
